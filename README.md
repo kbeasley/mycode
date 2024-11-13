@@ -1,0 +1,2 @@
+# mycode
+example for class
